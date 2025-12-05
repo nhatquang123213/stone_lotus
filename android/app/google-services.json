@@ -1,0 +1,49 @@
+{
+  "project_info": {
+    "project_number": "225626396798",
+    "firebase_url": "https://stonelotus-3b34a-default-rtdb.firebaseio.com",
+    "project_id": "stonelotus-3b34a",
+    "storage_bucket": "stonelotus-3b34a.firebasestorage.app"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:225626396798:android:0f552c3dae6efae7b0a02f",
+        "android_client_info": {
+          "package_name": "com.example.stone_lotus"
+        }
+      },
+      "oauth_client": [],
+      "api_key": [
+        {
+          "current_key": "AIzaSyBv0ynpcXeJPkkQpMV2RTXwsshCteHQWK0"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": []
+        }
+      }
+    },
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:225626396798:android:1b753ab617569420b0a02f",
+        "android_client_info": {
+          "package_name": "com.stone.lotus"
+        }
+      },
+      "oauth_client": [],
+      "api_key": [
+        {
+          "current_key": "AIzaSyBv0ynpcXeJPkkQpMV2RTXwsshCteHQWK0"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": []
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
